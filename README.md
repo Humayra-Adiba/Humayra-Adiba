@@ -1,4 +1,4 @@
-![I am Humayra-Adiba](https://github.com/Humayra-Adiba/Humayra-Adiba/blob/main/code.png)
+![I am Humayra-Adiba](https://github.com/harun181/harun181/raw/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Humayra Adiba</h1>
 <h3 align="center">Programmer | Speed Learner</h3>
