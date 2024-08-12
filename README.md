@@ -18,7 +18,7 @@ Skills: HTML / CSS / Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayra-Adiba](https://github.com/Humayra-Adiba)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
