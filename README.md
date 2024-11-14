@@ -37,7 +37,7 @@ I'm a passionate web developer and programmer from Bangladesh. I love crafting s
 
 
 ### 🛠️ Tech Stack
-<p align="center">
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -58,7 +58,7 @@ I'm a passionate web developer and programmer from Bangladesh. I love crafting s
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-3C3C3D?style=for-the-badge&logo=bun&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</p>
+
 <br/>
 
 
