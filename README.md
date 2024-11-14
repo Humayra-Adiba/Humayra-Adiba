@@ -1,26 +1,37 @@
 ![I am Humayra-Adiba](https://github.com/harun181/harun181/raw/main/code.png)
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Humayra-Adiba&label=Profile%20views&color=0e75b6&style=flat" alt="devaoto" />
+  <img src="https://img.shields.io/github/followers/Humayra-Adiba?label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Humayra-Adiba?label=Stars" alt="Stars" />
+</p>
 <h1 align="center">Hi 👋, I'm Humayra Adiba</h1>
-<h3 align="center">Programmer | Speed Learner</h3>
+<h3 align="center">Web developer | Programmer | Speed Learner</h3>
+
+I'm a passionate web developer and programmer from Bangladesh. I love crafting seamless user experiences and writing clean, efficient code. Exploring the latest web technologies and constantly challenging myself to learn more keeps me motivated. I'm always exploring the endless possibilities of programming.
+
+### 🌟 What I'm passionate about:
+- Building responsive, high-performance web applications
+- Contributing to open-source projects
+- Exploring new programming languages and frameworks
+
+### 💻 Skills:
+- JavaScript, React, Next.js
+- HTML, CSS, Tailwind, Bootstrap, Material UI, Daisy UI
 
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Humayra-Adiba&color=red)
-
-Skills: HTML / CSS / Python
-
-</div>
+Let's collaborate, share ideas, and build something amazing! 🌱
 
 
 
-- 🌱 I’m currently learning **Javascript, Bootstrap, React, Python**
+- 🌱 I’m currently learning **React, Next js, Python, c**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayra-Adiba](https://github.com/Humayra-Adiba)
 
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, Tailwind, Python**
 
 - 📫 How to reach me [tahsinadiba2024@outlook.com](mailto:tahsinadiba2024@outlook.com)
 
