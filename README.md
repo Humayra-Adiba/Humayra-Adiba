@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humayra Adiba</h1>
 <p ">I'm a passionate web developer and programmer from Bangladesh. I love crafting seamless user experiences and writing clean, efficient code. Exploring the latest web technologies and constantly challenging myself to learn more keeps me motivated. I'm always exploring the endless possibilities of programming.<p>
 
-## 🌟 What I'm passionate about:
+### 🌟 What I'm passionate about:
 - Building responsive, high-performance web applications
 - Contributing to open-source projects
 - Exploring new programming languages and frameworks
@@ -9,7 +9,6 @@
 
 
 ### **Let's collaborate, share ideas, and build something amazing! 🚀**
-
 - 🌱 I’m currently learning **Typescript, Nextjs, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayra-Adiba](https://github.com/Humayra-Adiba)
