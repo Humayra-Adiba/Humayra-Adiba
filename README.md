@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Tailwind, Bootstrap, Javascript, Python**
 
-- 📫 How to reach me **humayra-adiba2000@gmail.com**
+- 📫 How to reach me **humayra.adiba2000@gmail.com**
 
 - ⚡ Fun fact **I am Alsa**
 
