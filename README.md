@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Humayra Adiba</h1>
-<p ">I'm a passionate developer and programmer from Bangladesh. I love crafting seamless user experiences and writing clean, efficient code. Exploring the latest web technologies and constantly challenging myself to learn more keeps me motivated. I'm always exploring the endless possibilities of programming.<p>
+<h1 >Hey there👋, I'm Humayra Adiba</h1>
+<br>
+<p ">I'm a passionate developer and programmer from Bangladesh. I love crafting seamless user experiences and writing clean, efficient code. For me, development is a journey of endless learning and creation. Exploring the latest web technologies and constantly challenging myself to learn more keeps me motivated.<p>
+<hr>
+
 
 ### 🌟 What I'm passionate about:
-- Building responsive, high-performance web applications and softwares
+- Building responsive, high-performance web applications and software
 - Contributing to open-source projects
-- Exploring new programming languages and frameworks
+- Learning new languages, frameworks, and best practices in development
 
-
+<hr>
 
 ### **Let's collaborate, share ideas, and build something amazing! 🚀**
-- 🌱 I’m currently learning **Typescript, Nextjs, C++**
+- 🌱 I’m currently learning **Nodejs, MongoDB and C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayra-Adiba](https://github.com/Humayra-Adiba)
 
@@ -17,7 +20,7 @@
 
 - 📫 How to reach me **humayra.adiba2000@gmail.com**
 
-- ⚡ Fun fact **I am Alsa**
+- ⚡ Fun fact **I am "Alsa"**
 
 ### 🛠️ Tech Stack
 <p align="left">
