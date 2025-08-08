@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React, Tailwind, Bootstrap, Javascript, Python**
 
-- 📫 How to reach me **humayra.adiba2000@gmail.com**
+-🎯 Interested in: AI/ML,Cybersecurity, Blockchain 
 
 - ⚡ Fun fact - **"I break things just to fix them better"**
 
