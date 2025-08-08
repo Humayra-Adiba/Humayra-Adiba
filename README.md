@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React, Tailwind, Bootstrap, Javascript, Python**
 
--🎯 Interested in: AI/ML,Cybersecurity, Blockchain 
+- 🎯 Interested in :  **AI/ML,Cybersecurity & Blockchain**
 
 - ⚡ Fun fact - **"I break things just to fix them better"**
 
